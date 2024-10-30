@@ -15,4 +15,4 @@
 ## 設置與運行
 1. 克隆此儲存庫。
    ```bash
-   git clone https://github.com/yourusername/YourProjectName.git
+   git clone https://github.com/shiangan/flowertaipei.git
