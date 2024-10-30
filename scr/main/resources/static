@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>購物網頁</title>
+</head>
+<body>
+    <h1>歡迎來到購物網頁</h1>
+    <a href="/register">註冊</a>
+    <a href="/login">登入</a>
+</body>
+</html>
